@@ -32,4 +32,4 @@ Day 3: Trying to implement the openAI api but to no avail. 30 minutes
 
 Day 4: Trying to implement geminiai, but still can't call it because of one issue that I'm having. I have my api-key in an env file so that it is not open to public to see. However, I am unable to call the apikey in this env. Not sure why. Spent 1 hour trying to get through this.
 
-Day 5-7: Completed the ai call when pressing buttons, but it isn't displaying the result in the display once updated. Spent too long that I lost the track time. Lets say it was around 3 hours total.
+Day 5-7: Completed the ai call when pressing buttons, but it isn't displaying the result in the display once updated. Spent too long that I lost the track time. Lets say it was around 3 hours total. Tried to deploy to github pages and it said that they key is leaked. AUGH! Now I have to learn how to incorporate a backend. I don't know how long that will take.
